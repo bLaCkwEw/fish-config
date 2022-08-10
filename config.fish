@@ -6,6 +6,7 @@ end
 set -gx EDITOR (type -p nvim)
 
 # pnpm
-set -gx PNPM_HOME "/home/blackwew/.local/share/pnpm"
+set -gx PNPM_HOME "/home/blackwew/media/.pnpm-store/"
 set -gx PATH "$PNPM_HOME" $PATH
 # pnpm end
+
