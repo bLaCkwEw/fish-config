@@ -7,6 +7,7 @@ SETUVAR _fish_abbr_h:history\x20\x2d\x2dmax\x3d10
 SETUVAR _fish_abbr_q:exit
 SETUVAR _fish_abbr_rm:rm\x20\x2ddrvI
 SETUVAR _fish_abbr_tra:trash\x20\x2dv
+SETUVAR _fish_abbr_pnpr:pnpm\x20run
 SETUVAR _fisher_catppuccin_2F_fish_files:/home/blackwew/\x2econfig/fish/conf\x2ed/frappe\x2efish\x1e/home/blackwew/\x2econfig/fish/conf\x2ed/latte\x2efish\x1e/home/blackwew/\x2econfig/fish/conf\x2ed/macchiato\x2efish\x1e/home/blackwew/\x2econfig/fish/conf\x2ed/mocha\x2efish
 SETUVAR _fisher_dracula_2F_fish_files:/home/blackwew/\x2econfig/fish/conf\x2ed/dracula\x2efish
 SETUVAR _fisher_plugins:dracula/fish\x1ecatppuccin/fish
