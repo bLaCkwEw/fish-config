@@ -8,4 +8,7 @@ set -gx EDITOR (type -p nvim)
 # pnpm
 set -gx PNPM_HOME "/home/blackwew/media/.pnpm-store/"
 set -gx PATH "$PNPM_HOME" $PATH
-# pnpm end
+
+# Zoxide
+zoxide init fish | source
+
