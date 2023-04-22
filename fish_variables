@@ -3,8 +3,9 @@
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_c:clear
 SETUVAR _fish_abbr_e:exit
-SETUVAR _fish_abbr_h:history\x20\x2d\x2dmax\x3d10
 SETUVAR _fish_abbr_q:exit
+SETUVAR _fish_abbr_vim:nvim
+SETUVAR _fish_abbr_h:history\x20\x2d\x2dmax\x3d10
 SETUVAR _fish_abbr_rm:rm\x20\x2ddrvI
 SETUVAR _fish_abbr_tra:trash\x20\x2dv
 SETUVAR _fish_abbr_pnpr:pnpm\x20run
